@@ -53,7 +53,3 @@
 - Solved **400+** DSA problems across LeetCode  
 - Delivered real-world ML pipelines used in **industry & open source**  
 - Obsessed with performance, explainability, and clean system architecture
-
----
-
-📬 Let’s connect: [adityajaincb@gmail.com](mailto:adityajaincb@gmail.com) | [linkedin.com/in/adityajain2004](https://linkedin.com/in/adityajain2004)

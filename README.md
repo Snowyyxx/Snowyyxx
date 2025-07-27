@@ -1,10 +1,8 @@
 <h1 align="center">Aditya Jain</h1>
 <p align="center">
-  Machine Learning Architect • Backend Specialist • Full-Stack Engineer  
+  Machine Learning  •  Full-Stack   
   <br/>
   <a href="mailto:adityajaincb@gmail.com">📧 Email</a> |
-  <a href="https://linkedin.com/in/adityajain2004">🔗 LinkedIn</a> |
-  <a href="https://github.com/Snowyyxx">💻 GitHub</a>
 </p>
 
 ---
